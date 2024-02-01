@@ -65,3 +65,5 @@ t.test(pushups~position,data=mydata)
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+It shows that most skill players are doing more push ups then the line players. The medium is higher when it comes for push ups for skilled players. The median, minimum, and max is higher with push ups with skilled players then line players. Also there are more records of skilled players then line players. so it ins't as accurate or fair. 
+  
